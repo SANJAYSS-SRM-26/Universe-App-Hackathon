@@ -27,7 +27,7 @@ Privacy Control: Toggle geolocation on/off for privacy control.
 `Geolocation`: Google Maps API
 
 ## Preview
-![App-Preview]()
+![App-Preview](https://github.com/Randomized-netizen/Hackathon-Universe-App/blob/main/Preview%20-%20Universe.png)
 ## NOTE
 This App Is Under Development(BackEnd Under Development).
 ## Not Ready For End-User.
