@@ -1,0 +1,6 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="30.514" y1="5.143" x2="30.514" y2="10.286" stroke="#FFFFFF" stroke-width="2.057" stroke-miterlimit="10" stroke-linecap="square"/>
+<line x1="13.372" y1="5.143" x2="13.372" y2="10.286" stroke="#FFFFFF" stroke-width="2.057" stroke-miterlimit="10" stroke-linecap="square"/>
+<line x1="5.143" y1="15.086" x2="42.857" y2="15.086" stroke="#FFFFFF" stroke-width="2.057" stroke-miterlimit="10"/>
+<path d="M5.143,10.286L5.143,8.229L3.085,8.229L3.085,10.286L5.143,10.286ZM42.857,10.286L44.914,10.286L44.914,8.229L42.857,8.229L42.857,10.286ZM42.857,41.143L42.857,43.2L44.914,43.2L44.914,41.143L42.857,41.143ZM5.143,41.143L3.085,41.143L3.085,43.2L5.143,43.2L5.143,41.143ZM5.143,12.343L42.857,12.343L42.857,8.229L5.143,8.229L5.143,12.343ZM40.8,10.286L40.8,41.143L44.914,41.143L44.914,10.286L40.8,10.286ZM42.857,39.086L5.143,39.086L5.143,43.2L42.857,43.2L42.857,39.086ZM7.2,41.143L7.2,10.286L3.085,10.286L3.085,41.143L7.2,41.143Z" transform="rotate(0 24 25.714)" fill="#FFFFFF"/>
+</svg>

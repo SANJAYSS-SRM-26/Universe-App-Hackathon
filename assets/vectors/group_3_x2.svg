@@ -1,0 +1,16 @@
+<svg width="700" height="656" viewBox="0 0 700 656" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<line x1="0" y1="-1" x2="700" y2="-1" stroke="#DEE1E6" stroke-width="1" stroke-miterlimit="3.999327" stroke-dasharray="6 "/>
+<line x1="0" y1="163" x2="700" y2="163" stroke="#DEE1E6" stroke-width="1" stroke-miterlimit="3.999327" stroke-dasharray="6 "/>
+<line x1="0" y1="327" x2="700" y2="327" stroke="#DEE1E6" stroke-width="1" stroke-miterlimit="3.999327" stroke-dasharray="6 "/>
+<line x1="0" y1="491" x2="700" y2="491" stroke="#DEE1E6" stroke-width="1" stroke-miterlimit="3.999327" stroke-dasharray="6 "/>
+<line x1="0" y1="655" x2="700" y2="655" stroke="#DEE1E6" stroke-width="1" stroke-miterlimit="3.999327" stroke-dasharray="6 "/>
+<rect  x="35" y="255.84" width="42" height="367.36" fill="#6D31ED"/>
+<rect  x="84" y="111.52" width="42" height="511.68" fill="#15ABFF"/>
+<rect  x="133" y="295.2" width="42" height="328" fill="#FF56A5"/>
+<rect  x="280" y="255.84" width="42" height="367.36" fill="#6D31ED"/>
+<rect  x="329" y="78.72" width="42" height="544.48" fill="#15ABFF"/>
+<rect  x="378" y="341.12" width="42" height="282.08" fill="#FF56A5"/>
+<rect  x="525" y="124.64" width="42" height="498.56" fill="#6D31ED"/>
+<rect  x="574" y="203.36" width="42" height="419.84" fill="#15ABFF"/>
+<rect  x="623" y="0" width="42" height="623.2" fill="#FF56A5"/>
+</svg>
